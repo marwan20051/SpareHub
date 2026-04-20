@@ -1,0 +1,200 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #111111;
+  --color-surface: #181818;
+  --color-card: #1e1e1e;
+  --color-card-hover: #252525;
+  --color-orange: #e87c1e;
+  --color-orange-dark: #c96a15;
+  --color-orange-light: #f5a623;
+  --color-foreground: #ededed;
+  --color-muted: #888888;
+  --color-border: #2a2a2a;
+  --color-border-hover: #e87c1e;
+  --color-oem: #22c55e;
+  --color-aftermarket: #f59e0b;
+  --color-imported: #a855f7;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Base styles */
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Fade-in animation for page transitions */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* Card hover effect */
+.card-hover {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  border: 1px solid var(--color-border);
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(232, 124, 30, 0.15);
+  border-color: var(--color-orange);
+}
+
+/* Smooth transitions on interactive elements */
+button, a, input, select {
+  transition: all 0.2s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted);
+}
+
+/* Price formatting */
+.price {
+  color: var(--color-orange);
+  font-weight: 700;
+}
+
+/* Badge styles */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge-oem {
+  background: rgba(34, 197, 94, 0.15);
+  color: var(--color-oem);
+}
+
+.badge-aftermarket {
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--color-aftermarket);
+}
+
+.badge-imported {
+  background: rgba(168, 85, 247, 0.15);
+  color: var(--color-imported);
+}
+
+/* Pulse animation for loading */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.animate-pulse {
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+/* Modal overlay */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(4px);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Orange glow button */
+.btn-orange {
+  background: var(--color-orange);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 12px 24px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s ease;
+}
+
+.btn-orange:hover {
+  background: var(--color-orange-dark);
+  box-shadow: 0 4px 20px rgba(232, 124, 30, 0.4);
+}
+
+.btn-orange:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Input styles */
+.input-field {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: var(--color-foreground);
+  font-size: 0.875rem;
+  width: 100%;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.input-field:focus {
+  border-color: var(--color-orange);
+}
+
+.input-field::placeholder {
+  color: var(--color-muted);
+}
+
+/* Select styles */
+.select-field {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: var(--color-foreground);
+  font-size: 0.875rem;
+  width: 100%;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  padding-right: 36px;
+  transition: border-color 0.2s ease;
+}
+
+.select-field:focus {
+  border-color: var(--color-orange);
+}
