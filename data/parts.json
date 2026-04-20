@@ -10,7 +10,7 @@
     "category": "Engine",
     "type": "Aftermarket",
     "price": 450,
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=75&fit=crop",
+    "image": "/images/parts/air_filter_1776717867623.png",
     "description": "High-quality air filter designed for Toyota Corolla engines. Ensures optimal airflow and engine protection against dust and debris.",
     "inStock": true
   },
@@ -25,7 +25,7 @@
     "category": "Engine",
     "type": "OEM",
     "price": 320,
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=75&fit=crop",
+    "image": "/images/parts/oil_filter_1776717885695.png",
     "description": "Genuine Denso oil filter for Toyota Corolla. Provides superior filtration to extend engine life and maintain performance.",
     "inStock": true
   },
@@ -40,7 +40,7 @@
     "category": "Brakes",
     "type": "Imported",
     "price": 1850,
-    "image": "https://images.unsplash.com/photo-1600712242805-5f78671b24da?w=400&q=75&fit=crop",
+    "image": "/images/parts/brake_pads_1776717901491.png",
     "description": "Premium Brembo front brake pads for Toyota Camry. Delivers excellent stopping power and minimal brake dust.",
     "inStock": true
   },
@@ -55,7 +55,7 @@
     "category": "Brakes",
     "type": "Imported",
     "price": 2400,
-    "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&q=75&fit=crop",
+    "image": "/images/parts/brake_discs_1776717915534.png",
     "description": "TRW ventilated front brake disc set for Hyundai Elantra. Engineered for consistent braking under all driving conditions.",
     "inStock": true
   },
@@ -70,7 +70,7 @@
     "category": "Lighting",
     "type": "Aftermarket",
     "price": 3200,
-    "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=400&q=75&fit=crop",
+    "image": "/images/parts/headlight_1776717932516.png",
     "description": "Depo replacement headlight assembly for Hyundai Tucson. Direct OEM fit with clear lens and modern styling.",
     "inStock": true
   },
@@ -85,7 +85,7 @@
     "category": "Lighting",
     "type": "Aftermarket",
     "price": 1600,
-    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&q=75&fit=crop",
+    "image": "/images/parts/tail_light_1776717959073.png",
     "description": "TYC right tail light for Kia Cerato with LED elements. Easy bolt-on installation with factory-matching appearance.",
     "inStock": true
   },
@@ -100,7 +100,7 @@
     "category": "Electrical",
     "type": "OEM",
     "price": 2100,
-    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=400&q=75&fit=crop",
+    "image": "/images/parts/car_battery_1776717973930.png",
     "description": "Chloride 70Ah maintenance-free car battery. Reliable starting power designed for Egyptian climate conditions.",
     "inStock": true
   },
@@ -115,7 +115,7 @@
     "category": "Engine",
     "type": "OEM",
     "price": 680,
-    "image": "https://images.unsplash.com/photo-1613214150384-970304090769?w=400&q=75&fit=crop",
+    "image": "/images/parts/spark_plugs_1776718000364.png",
     "description": "NGK iridium spark plugs set for Toyota Camry. Delivers consistent ignition and improved fuel efficiency.",
     "inStock": true
   },
@@ -130,7 +130,7 @@
     "category": "Cooling",
     "type": "Imported",
     "price": 3800,
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=400&q=75&fit=crop",
+    "image": "/images/parts/radiator_1776718021046.png",
     "description": "Nissens aluminum radiator for Hyundai Elantra. Maximum cooling efficiency for hot Egyptian summers.",
     "inStock": true
   },
@@ -145,7 +145,7 @@
     "category": "Cooling",
     "type": "Aftermarket",
     "price": 1450,
-    "image": "https://images.unsplash.com/photo-1635784065972-1a66bf8f4944?w=400&q=75&fit=crop",
+    "image": "/images/parts/water_pump_1776718035755.png",
     "description": "GMB water pump for Kia Sportage. Precision-built for reliable coolant circulation and long service life.",
     "inStock": true
   },
@@ -160,7 +160,7 @@
     "category": "Engine",
     "type": "Imported",
     "price": 4200,
-    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=400&q=75&fit=crop",
+    "image": "/images/parts/timing_belt_1776718052121.png",
     "description": "Gates complete timing belt kit with tensioner for Hyundai Tucson. Critical maintenance item for engine longevity.",
     "inStock": true
   },
@@ -175,7 +175,7 @@
     "category": "Electrical",
     "type": "Imported",
     "price": 5500,
-    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=400&q=75&fit=crop",
+    "image": "/images/parts/alternator_1776718065655.png",
     "description": "Valeo remanufactured alternator for Nissan Sunny. Restored to OEM specifications with full output guarantee.",
     "inStock": true
   },
@@ -190,7 +190,7 @@
     "category": "Suspension",
     "type": "OEM",
     "price": 3600,
-    "image": "https://images.unsplash.com/photo-1600712242805-5f78671b24da?w=400&q=75&fit=crop",
+    "image": "/images/parts/shock_absorbers_1776718078088.png",
     "description": "KYB Excel-G front shock absorbers for Nissan X-Trail. Restores factory ride quality and handling stability.",
     "inStock": true
   },
@@ -205,7 +205,7 @@
     "category": "Suspension",
     "type": "Aftermarket",
     "price": 1200,
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=75&fit=crop",
+    "image": "/images/parts/cv_joint_1776718090748.png",
     "description": "GSP outer CV joint for Kia Cerato. Heat-treated for durability with grease and boot included.",
     "inStock": true
   },
@@ -220,7 +220,7 @@
     "category": "Engine",
     "type": "OEM",
     "price": 18500,
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=75&fit=crop",
+    "image": "/images/parts/turbocharger_1776718104552.png",
     "description": "Garrett turbocharger for Hyundai Tucson turbo models. Factory-spec replacement with balanced core assembly.",
     "inStock": false
   },
@@ -235,7 +235,7 @@
     "category": "Engine",
     "type": "Imported",
     "price": 8900,
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=400&q=75&fit=crop",
+    "image": "/images/parts/intercooler_1776718130593.png",
     "description": "Mishimoto performance intercooler for Kia Sportage. Bar-and-plate design for improved charge air cooling.",
     "inStock": true
   },
@@ -250,7 +250,7 @@
     "category": "Engine",
     "type": "OEM",
     "price": 2800,
-    "image": "https://images.unsplash.com/photo-1635784065972-1a66bf8f4944?w=400&q=75&fit=crop",
+    "image": "/images/parts/fuel_pump_1776718145941.png",
     "description": "Delphi in-tank fuel pump assembly for Nissan Sunny. Complete module with sender unit and strainer.",
     "inStock": true
   },
@@ -265,7 +265,7 @@
     "category": "Cooling",
     "type": "Imported",
     "price": 350,
-    "image": "https://images.unsplash.com/photo-1613214150384-970304090769?w=400&q=75&fit=crop",
+    "image": "/images/parts/radiator_1776718021046.png",
     "description": "Wahler thermostat for Toyota Corolla. Precise temperature regulation for optimal engine operating conditions.",
     "inStock": true
   },
@@ -280,7 +280,7 @@
     "category": "Engine",
     "type": "Imported",
     "price": 5200,
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=75&fit=crop",
+    "image": "/images/parts/brake_discs_1776717915534.png",
     "description": "LUK complete clutch kit for Kia Cerato. Includes pressure plate, disc, and release bearing.",
     "inStock": true
   },
@@ -295,7 +295,7 @@
     "category": "Cooling",
     "type": "OEM",
     "price": 7200,
-    "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&q=75&fit=crop",
+    "image": "/images/parts/alternator_1776718065655.png",
     "description": "Sanden AC compressor for Nissan X-Trail. Essential for reliable air conditioning in Egyptian heat.",
     "inStock": true
   },
@@ -310,7 +310,7 @@
     "category": "Brakes",
     "type": "Aftermarket",
     "price": 950,
-    "image": "https://images.unsplash.com/photo-1600712242805-5f78671b24da?w=400&q=75&fit=crop",
+    "image": "/images/parts/brake_pads_1776717901491.png",
     "description": "Ferodo rear brake pads for Toyota Corolla. Low-noise ceramic compound for smooth, fade-free braking.",
     "inStock": true
   },
@@ -325,7 +325,7 @@
     "category": "Lighting",
     "type": "OEM",
     "price": 380,
-    "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=400&q=75&fit=crop",
+    "image": "/images/parts/headlight_1776717932516.png",
     "description": "Philips X-tremeVision H7 headlight bulbs for Hyundai Elantra. 130% more light for safer night driving.",
     "inStock": true
   },
@@ -340,7 +340,7 @@
     "category": "Suspension",
     "type": "Aftermarket",
     "price": 2800,
-    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&q=75&fit=crop",
+    "image": "/images/parts/shock_absorbers_1776718078088.png",
     "description": "Monroe OESpectrum rear shocks for Toyota Camry. All-weather performance with progressive damping technology.",
     "inStock": true
   },
@@ -355,7 +355,7 @@
     "category": "Engine",
     "type": "Imported",
     "price": 520,
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=75&fit=crop",
+    "image": "/images/parts/air_filter_1776717867623.png",
     "description": "Mann air filter for Kia Sportage. German-engineered filtration media for maximum dust holding capacity.",
     "inStock": true
   },
@@ -370,7 +370,7 @@
     "category": "Cooling",
     "type": "Aftermarket",
     "price": 1800,
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=400&q=75&fit=crop",
+    "image": "/images/parts/alternator_1776718065655.png",
     "description": "NRF radiator fan motor for Nissan Sunny. High-torque motor ensures reliable cooling fan operation.",
     "inStock": true
   },
@@ -385,7 +385,7 @@
     "category": "Electrical",
     "type": "OEM",
     "price": 4500,
-    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=400&q=75&fit=crop",
+    "image": "/images/parts/alternator_1776718065655.png",
     "description": "Bosch starter motor for Toyota Camry. Engineered for thousands of reliable starts in all conditions.",
     "inStock": true
   },
@@ -400,7 +400,7 @@
     "category": "Engine",
     "type": "OEM",
     "price": 280,
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=75&fit=crop",
+    "image": "/images/parts/oil_filter_1776717885695.png",
     "description": "Genuine Hyundai oil filter for Tucson. Factory-spec filtration to protect your engine investment.",
     "inStock": true
   },
@@ -415,7 +415,7 @@
     "category": "Brakes",
     "type": "OEM",
     "price": 1650,
-    "image": "https://images.unsplash.com/photo-1600712242805-5f78671b24da?w=400&q=75&fit=crop",
+    "image": "/images/parts/brake_pads_1776717901491.png",
     "description": "Sangsin Hi-Q front brake pads for Kia Sportage. OEM supplier quality with low dust and noise.",
     "inStock": true
   },
@@ -430,7 +430,7 @@
     "category": "Lighting",
     "type": "Imported",
     "price": 2200,
-    "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=400&q=75&fit=crop",
+    "image": "/images/parts/headlight_1776717932516.png",
     "description": "Osram LED retrofit fog light kit for Nissan X-Trail. Brilliant white light with plug-and-play installation.",
     "inStock": true
   },
@@ -445,7 +445,7 @@
     "category": "Suspension",
     "type": "Imported",
     "price": 1400,
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=75&fit=crop",
+    "image": "/images/parts/cv_joint_1776718090748.png",
     "description": "SKF inner CV joint for Hyundai Elantra. Premium quality with boot kit and all necessary hardware.",
     "inStock": true
   },
@@ -460,7 +460,7 @@
     "category": "Engine",
     "type": "OEM",
     "price": 560,
-    "image": "https://images.unsplash.com/photo-1613214150384-970304090769?w=400&q=75&fit=crop",
+    "image": "/images/parts/spark_plugs_1776718000364.png",
     "description": "Denso iridium spark plugs for Nissan Sunny. Long-life design with excellent ignitability and fuel economy.",
     "inStock": true
   },
@@ -475,7 +475,7 @@
     "category": "Cooling",
     "type": "Aftermarket",
     "price": 650,
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=400&q=75&fit=crop",
+    "image": "/images/parts/radiator_1776718021046.png",
     "description": "Continental radiator hose set for Toyota Corolla. EPDM rubber construction resists heat, ozone, and coolant.",
     "inStock": true
   },
@@ -490,7 +490,7 @@
     "category": "Electrical",
     "type": "Aftermarket",
     "price": 750,
-    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=400&q=75&fit=crop",
+    "image": "/images/parts/spark_plugs_1776718000364.png",
     "description": "Delphi ignition coil for Hyundai Elantra. Direct replacement with enhanced spark energy output.",
     "inStock": true
   },
@@ -505,7 +505,7 @@
     "category": "Engine",
     "type": "Aftermarket",
     "price": 180,
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=75&fit=crop",
+    "image": "/images/parts/air_filter_1776717867623.png",
     "description": "Bosch activated carbon cabin filter for Kia Cerato. Filters dust, pollen, and exhaust odors effectively.",
     "inStock": true
   },
